@@ -1,0 +1,25 @@
+2019-12-11 16:35:37.8436|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0000-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-11 16:35:37.8896|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000002-0000-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-12-11 16:35:44.3103|INFO|ProjectManager.Utils.LoggingUtility|Request ID: 80000002-0000-fb00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:50831/api/project
+Controller : ProjectManager.Controllers.ProjectController
+Action : RetrieveProjects
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass12_0
+Error: Login failed for user 'Anindita_FSE'.
+
+
